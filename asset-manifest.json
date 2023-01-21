@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Johnathan_Specter_Challenge/static/css/main.f5094c4f.css",
+    "main.js": "/Johnathan_Specter_Challenge/static/js/main.83d4e91e.js",
+    "static/media/YelpCamp.png": "/Johnathan_Specter_Challenge/static/media/YelpCamp.4ba1dc4f8e26622ca1a0.png",
+    "static/media/Spense.png": "/Johnathan_Specter_Challenge/static/media/Spense.5c6339199db7cf4bc335.png",
+    "static/media/JP Morgan.svg": "/Johnathan_Specter_Challenge/static/media/JP Morgan.71f011e619eda64ff20ccae7515b327a.svg",
+    "static/media/Walmart.svg": "/Johnathan_Specter_Challenge/static/media/Walmart.be520232cbe6279c1524fe6636fd0cc9.svg",
+    "static/media/Tinder.svg": "/Johnathan_Specter_Challenge/static/media/Tinder.8eb285ff9d9ac72de366d0bea668fdf6.svg",
+    "static/media/Samsung.svg": "/Johnathan_Specter_Challenge/static/media/Samsung.9268300897b28483e24343c2fbee41e9.svg",
+    "static/media/Github.svg": "/Johnathan_Specter_Challenge/static/media/Github.95fdc5ec5da33a5aae6636930044299f.svg",
+    "static/media/Verizon.svg": "/Johnathan_Specter_Challenge/static/media/Verizon.d4d5110f944cf89c2fe0927c8b2b67a5.svg",
+    "static/media/Twitter.svg": "/Johnathan_Specter_Challenge/static/media/Twitter.47366e1c5ff248174a3eb128c204a703.svg",
+    "static/media/Visa.svg": "/Johnathan_Specter_Challenge/static/media/Visa.a08f1c517b6cc815075f21e7dced8eb5.svg",
+    "index.html": "/Johnathan_Specter_Challenge/index.html",
+    "static/media/LinkedIn.svg": "/Johnathan_Specter_Challenge/static/media/LinkedIn.b31066ce02ac2d93f5504df4e7bb247f.svg",
+    "static/media/hamburger.svg": "/Johnathan_Specter_Challenge/static/media/hamburger.2906868f2147af3352bbd705735b2a0e.svg",
+    "main.f5094c4f.css.map": "/Johnathan_Specter_Challenge/static/css/main.f5094c4f.css.map",
+    "main.83d4e91e.js.map": "/Johnathan_Specter_Challenge/static/js/main.83d4e91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5094c4f.css",
+    "static/js/main.83d4e91e.js"
+  ]
+}
